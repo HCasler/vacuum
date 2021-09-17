@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# added another comment
+
 import time, serial, os, sys
 from sys import stderr
 
