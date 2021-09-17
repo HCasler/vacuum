@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# add a comment
+
 import os, serial, sys, signal, select, time, datetime
 from tests.fakeSerial import MockPirani, MockCapacitance
 from pressure_gauges import Pirani, Capacitance
