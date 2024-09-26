@@ -1,5 +1,7 @@
 #!/usr/bin/env python
 
+# add a comment
+
 from sys import stderr
 from serial import Serial
 import time
